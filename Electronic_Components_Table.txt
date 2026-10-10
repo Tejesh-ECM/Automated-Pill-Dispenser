@@ -1,0 +1,30 @@
++--------------------------------------------------------------------------+--------------+
+| Component                                                                | Quantity     |
++--------------------------------------------------------------------------+--------------+
+| Arduino UNO R4 Minima                                                    | 1            |
+| 16x2 LCD with I2C backpack                                               | 1 set        |
+| DS3231 RTC module without battery-charging circuit                       | 1            |
+| CR2032 coin-cell battery                                                 | 1            |
+| 5 V SG90 positional servo motor                                          | 4            |
+| Matched infrared emitter and phototransistor                             | 4 pairs      |
+| SN74HC14N Schmitt-trigger IC, DIP-14                                     | 1            |
+| Passive piezo buzzer                                                     | 1            |
+| PN2222A transistor                                                       | 1            |
+| Diffused green 5 mm LED                                                  | 4            |
+| 220 ohm resistor                                                         | 4            |
+| 10 kilohm resistor                                                       | 9            |
+| 1 kilohm resistor                                                        | 6            |
+| 100 nF ceramic capacitor                                                 | 7            |
+| 1000 uF electrolytic capacitor, rated at least 16 V                      | 1            |
+| DC-rated latching stop switch with two separate normally closed contacts | 1            |
+| Cover interlock microswitch                                              | 1            |
+| Enclosed regulated 5 V 5 A adapter                                       | 1            |
+| Regulated 9 V 1 A centre-positive adapter, 5.5 x 2.1 mm plug             | 1            |
+| Main fuse and holder                                                     | 1 set        |
+| Servo branch fuse and holder                                             | 4 sets       |
+| USB-C data cable                                                         | 1            |
+| Copper hookup wire                                                       | 1 assortment |
+| DC input socket matching the motor adapter                               | 1            |
+| Perfboard                                                                | 1            |
+| Heat-shrink tubin                                                    | 1 assortment |
++--------------------------------------------------------------------------+--------------+
