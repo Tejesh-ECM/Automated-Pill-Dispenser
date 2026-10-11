@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Codex\2026-10-06\https-www-hackster-io-makersupv-smart\work\budget_build\UNOWIFIR4\SmartPillBudget.elf  :
+section                    size         addr
+.text                     94644        16384
+.ARM.exidx                    8       111028
+.fsp_dtc_vector_table         0    536870912
+.data                       688    536870912
+.noinit                      24    536871600
+.bss                      11140    536871624
+.heap                      8192    536882768
+.stack_dummy               1024    536902400
+.vector_table               256    536903424
+.data_flash                   0   1074790400
+.id_code                     28     16842776
+.option_setting               0            0
+.option_setting_ns            0            0
+.option_setting_s             0            0
+.ARM.attributes              48            0
+.comment                    199            0
+.debug_info             3383692            0
+.debug_abbrev            128151            0
+.debug_loc               221066            0
+.debug_aranges            10200            0
+.debug_ranges             40280            0
+.debug_macro             192463            0
+.debug_line              382321            0
+.debug_str               742898            0
+.debug_frame              34332            0
+.stab                       180            0
+.stabstr                    387            0
+Total                   5252221
+
+

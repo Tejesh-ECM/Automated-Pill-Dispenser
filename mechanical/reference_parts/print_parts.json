@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Dispenser Base",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser Base",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_Base.stl",
+    "dimensions_mm": [
+      88.13,
+      70.0,
+      50.23
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Rueda",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Rueda",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Rueda.stl",
+    "dimensions_mm": [
+      56.5,
+      53.98,
+      22.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Cuenco",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Cuenco",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Cuenco.stl",
+    "dimensions_mm": [
+      60.0,
+      60.0,
+      43.48
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Body6",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Servo Housing/Body6",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Servo_Housing_Body6.stl",
+    "dimensions_mm": [
+      72.0,
+      41.38,
+      26.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Body1",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Servo Housing/Body1",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Servo_Housing_Body1.stl",
+    "dimensions_mm": [
+      60.0,
+      62.0,
+      45.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Base",
+    "path": "/SmartPill Drawings v4/Base",
+    "file": "SmartPill_Drawings_v4_Base.stl",
+    "dimensions_mm": [
+      285.58,
+      190.0,
+      110.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Slider Face",
+    "path": "/SmartPill Drawings v4/Slider /Slider Face",
+    "file": "SmartPill_Drawings_v4_Slider_Slider_Face.stl",
+    "dimensions_mm": [
+      130.0,
+      178.0,
+      88.76
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Slider bottom",
+    "path": "/SmartPill Drawings v4/Slider /Slider bottom",
+    "file": "SmartPill_Drawings_v4_Slider_Slider_bottom.stl",
+    "dimensions_mm": [
+      125.0,
+      178.0,
+      88.76
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Slider End",
+    "path": "/SmartPill Drawings v4/Slider /Slider End",
+    "file": "SmartPill_Drawings_v4_Slider_Slider_End.stl",
+    "dimensions_mm": [
+      10.0,
+      190.0,
+      100.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Right Wall",
+    "path": "/SmartPill Drawings v4/Mid/Right Wall",
+    "file": "SmartPill_Drawings_v4_Mid_Right_Wall.stl",
+    "dimensions_mm": [
+      256.4,
+      16.0,
+      120.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Left Wall",
+    "path": "/SmartPill Drawings v4/Mid/Left Wall",
+    "file": "SmartPill_Drawings_v4_Mid_Left_Wall.stl",
+    "dimensions_mm": [
+      256.4,
+      16.0,
+      120.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Display holder",
+    "path": "/SmartPill Drawings v4/Mid/Display holder",
+    "file": "SmartPill_Drawings_v4_Mid_Display_holder.stl",
+    "dimensions_mm": [
+      13.6,
+      190.0,
+      148.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Top cover",
+    "path": "/SmartPill Drawings v4/Top/Top cover",
+    "file": "SmartPill_Drawings_v4_Top_Top_cover.stl",
+    "dimensions_mm": [
+      270.0,
+      190.0,
+      35.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Top base",
+    "path": "/SmartPill Drawings v4/Top/Top base",
+    "file": "SmartPill_Drawings_v4_Top_Top_base.stl",
+    "dimensions_mm": [
+      270.0,
+      190.0,
+      40.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Drum",
+    "path": "/SmartPill Drawings v4/Drum",
+    "file": "SmartPill_Drawings_v4_Drum.stl",
+    "dimensions_mm": [
+      90.0,
+      80.0,
+      35.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Back Door",
+    "path": "/SmartPill Drawings v4/Back Door",
+    "file": "SmartPill_Drawings_v4_Back_Door.stl",
+    "dimensions_mm": [
+      16.0,
+      190.0,
+      165.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  }
+]

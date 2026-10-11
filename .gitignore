@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+~$*
+.env
+.env.*
+!.env.example
+/data/
+/build/
+*.exe
+*.o
+*.elf
+*.map

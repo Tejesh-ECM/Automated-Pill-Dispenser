@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Codex\2026-10-06\https-www-hackster-io-makersupv-smart\work\budget_build\MINIMA\ResetStorage.elf  :
+section                    size         addr
+.text                     55208        16384
+.ARM.exidx                    8        71592
+.fsp_dtc_vector_table         0    536870912
+.data                       244    536870912
+.noinit                      28    536871156
+.bss                       5428    536871184
+.heap                      8192    536876616
+.stack_dummy               1024    536902400
+.vector_table               256    536903424
+.data_flash                   0   1074790400
+.id_code                     28     16842776
+.option_setting               0            0
+.option_setting_ns            0            0
+.option_setting_s             0            0
+.ARM.attributes              48            0
+.comment                    199            0
+.debug_info             3043746            0
+.debug_abbrev            118207            0
+.debug_loc               172947            0
+.debug_aranges             8488            0
+.debug_ranges             31216            0
+.debug_macro             171946            0
+.debug_line              339020            0
+.debug_str               617993            0
+.debug_frame              25104            0
+.stab                        48            0
+.stabstr                    441            0
+Total                   4599819
+
+

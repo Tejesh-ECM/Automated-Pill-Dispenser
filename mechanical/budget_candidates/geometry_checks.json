@@ -1,0 +1,66 @@
+[
+  {
+    "part": "manual_refill_plate",
+    "triangles": 428,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 73020.0,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "refill_cap_print_four",
+    "triangles": 68,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 8693.76,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "shared_refill_guard",
+    "triangles": 92,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 116640.0,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "lcd_16x2_plate",
+    "triangles": 272,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 17861.28,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "fixed_receiving_tray",
+    "triangles": 460,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 59196.0,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "controller_plate",
+    "triangles": 332,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 27618.0,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "cover_switch_bracket",
+    "triangles": 328,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 4212.0,
+    "fit": "NOT VERIFIED"
+  },
+  {
+    "part": "refill_led_tab_print_four",
+    "triangles": 148,
+    "closed_edges": true,
+    "consistent_orientation": true,
+    "volume_mm3": 632.52,
+    "fit": "NOT VERIFIED"
+  }
+]

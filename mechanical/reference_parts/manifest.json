@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Dispenser Base",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser Base",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_Base.stl",
+    "dimensions_mm": [
+      88.13,
+      70.0,
+      50.23
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Rueda",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Rueda",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Rueda.stl",
+    "dimensions_mm": [
+      56.5,
+      53.98,
+      22.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Cuenco",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Cuenco",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Cuenco.stl",
+    "dimensions_mm": [
+      60.0,
+      60.0,
+      43.48
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "608ZZ",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/608ZZ",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_608ZZ.stl",
+    "dimensions_mm": [
+      22.0,
+      22.0,
+      7.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "TGY-9025MG Servo Body",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/-9025MG Servo v3/TGY-9025MG Servo Body",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_-9025MG_Servo_v3_TGY-9025MG_Servo_Body.stl",
+    "dimensions_mm": [
+      31.9,
+      28.9,
+      12.15
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Body6",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Servo Housing/Body6",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Servo_Housing_Body6.stl",
+    "dimensions_mm": [
+      72.0,
+      41.38,
+      26.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Body1",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/Servo Housing/Body1",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_Servo_Housing_Body1.stl",
+    "dimensions_mm": [
+      60.0,
+      62.0,
+      45.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "LED 5mm v1",
+    "path": "/SmartPill Drawings v4/Dispensers/Dispenser v9/LED 5mm v1",
+    "file": "SmartPill_Drawings_v4_Dispensers_Dispenser_v9_LED_5mm_v1.stl",
+    "dimensions_mm": [
+      5.5,
+      6.0,
+      13.8
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Base",
+    "path": "/SmartPill Drawings v4/Base",
+    "file": "SmartPill_Drawings_v4_Base.stl",
+    "dimensions_mm": [
+      285.58,
+      190.0,
+      110.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Slider Face",
+    "path": "/SmartPill Drawings v4/Slider /Slider Face",
+    "file": "SmartPill_Drawings_v4_Slider_Slider_Face.stl",
+    "dimensions_mm": [
+      130.0,
+      178.0,
+      88.76
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Slider bottom",
+    "path": "/SmartPill Drawings v4/Slider /Slider bottom",
+    "file": "SmartPill_Drawings_v4_Slider_Slider_bottom.stl",
+    "dimensions_mm": [
+      125.0,
+      178.0,
+      88.76
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "M4x25",
+    "path": "/SmartPill Drawings v4/Slider /Hardware Sli/M4x25",
+    "file": "SmartPill_Drawings_v4_Slider_Hardware_Sli_M4x25.stl",
+    "dimensions_mm": [
+      7.0,
+      7.0,
+      26.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "M4 STEEL HEX NUT",
+    "path": "/SmartPill Drawings v4/Slider /Hardware Sli/M4 STEEL HEX NUT",
+    "file": "SmartPill_Drawings_v4_Slider_Hardware_Sli_M4_STEEL_HEX_NUT.stl",
+    "dimensions_mm": [
+      7.0,
+      3.2,
+      8.08
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Slider End",
+    "path": "/SmartPill Drawings v4/Slider /Slider End",
+    "file": "SmartPill_Drawings_v4_Slider_Slider_End.stl",
+    "dimensions_mm": [
+      10.0,
+      190.0,
+      100.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Right Wall",
+    "path": "/SmartPill Drawings v4/Mid/Right Wall",
+    "file": "SmartPill_Drawings_v4_Mid_Right_Wall.stl",
+    "dimensions_mm": [
+      256.4,
+      16.0,
+      120.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Left Wall",
+    "path": "/SmartPill Drawings v4/Mid/Left Wall",
+    "file": "SmartPill_Drawings_v4_Mid_Left_Wall.stl",
+    "dimensions_mm": [
+      256.4,
+      16.0,
+      120.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Display holder",
+    "path": "/SmartPill Drawings v4/Mid/Display holder",
+    "file": "SmartPill_Drawings_v4_Mid_Display_holder.stl",
+    "dimensions_mm": [
+      13.6,
+      190.0,
+      148.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Component1",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component1",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component1.stl",
+    "dimensions_mm": [
+      14.0,
+      9.0,
+      23.71
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component2",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component2",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component2.stl",
+    "dimensions_mm": [
+      6.0,
+      2.5,
+      3.25
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component3",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component3",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component3.stl",
+    "dimensions_mm": [
+      6.85,
+      1.7,
+      6.85
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component4",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component4",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component4.stl",
+    "dimensions_mm": [
+      5.0,
+      1.6,
+      5.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component5",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component5",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component5.stl",
+    "dimensions_mm": [
+      15.0,
+      2.0,
+      15.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component6",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component6",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component6.stl",
+    "dimensions_mm": [
+      10.25,
+      1.15,
+      22.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component7",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component7",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component7.stl",
+    "dimensions_mm": [
+      6.0,
+      4.0,
+      6.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component8",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component8",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component8.stl",
+    "dimensions_mm": [
+      7.0,
+      2.0,
+      5.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component9",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component9",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component9.stl",
+    "dimensions_mm": [
+      5.0,
+      1.6,
+      5.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component10",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component10",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component10.stl",
+    "dimensions_mm": [
+      5.0,
+      1.6,
+      5.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component11",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component11",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component11.stl",
+    "dimensions_mm": [
+      164.0,
+      4.7,
+      100.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component12",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component12",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component12.stl",
+    "dimensions_mm": [
+      7.5,
+      6.0,
+      15.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component13",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component13",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component13.stl",
+    "dimensions_mm": [
+      164.0,
+      0.9,
+      100.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component14",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component14",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component14.stl",
+    "dimensions_mm": [
+      40.0,
+      6.46,
+      36.26
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component15",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component15",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component15.stl",
+    "dimensions_mm": [
+      161.38,
+      0.2,
+      98.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component16",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component16",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component16.stl",
+    "dimensions_mm": [
+      5.17,
+      2.2,
+      5.4
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component17",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component17",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component17.stl",
+    "dimensions_mm": [
+      9.9,
+      2.5,
+      5.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component18",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component18",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component18.stl",
+    "dimensions_mm": [
+      5.0,
+      1.6,
+      5.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component19",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component19",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component19.stl",
+    "dimensions_mm": [
+      30.5,
+      2.0,
+      5.15
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component20",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component20",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component20.stl",
+    "dimensions_mm": [
+      4.4,
+      1.1,
+      5.12
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component21",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component21",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component21.stl",
+    "dimensions_mm": [
+      159.63,
+      0.2,
+      96.55
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component22",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component22",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component22.stl",
+    "dimensions_mm": [
+      6.0,
+      4.0,
+      6.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component23",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component23",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component23.stl",
+    "dimensions_mm": [
+      20.0,
+      1.25,
+      20.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component24",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component24",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component24.stl",
+    "dimensions_mm": [
+      180.0,
+      1.6,
+      108.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component25",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component25",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component25.stl",
+    "dimensions_mm": [
+      43.5,
+      1.6,
+      0.8
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Component26",
+    "path": "/SmartPill Drawings v4/NEXTION NX8048T070 v2/Component26",
+    "file": "SmartPill_Drawings_v4_NEXTION_NX8048T070_v2_Component26.stl",
+    "dimensions_mm": [
+      164.0,
+      0.4,
+      98.85
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Top cover",
+    "path": "/SmartPill Drawings v4/Top/Top cover",
+    "file": "SmartPill_Drawings_v4_Top_Top_cover.stl",
+    "dimensions_mm": [
+      270.0,
+      190.0,
+      35.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Top base",
+    "path": "/SmartPill Drawings v4/Top/Top base",
+    "file": "SmartPill_Drawings_v4_Top_Top_base.stl",
+    "dimensions_mm": [
+      270.0,
+      190.0,
+      40.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "servo_moteur",
+    "path": "/SmartPill Drawings v4/Parallax Servo /servo_moteur",
+    "file": "SmartPill_Drawings_v4_Parallax_Servo_servo_moteur.stl",
+    "dimensions_mm": [
+      20.0,
+      55.5,
+      42.1
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Palonnier",
+    "path": "/SmartPill Drawings v4/Parallax Servo /Palonnier",
+    "file": "SmartPill_Drawings_v4_Parallax_Servo_Palonnier.stl",
+    "dimensions_mm": [
+      5.5,
+      21.0,
+      21.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Drum",
+    "path": "/SmartPill Drawings v4/Drum",
+    "file": "SmartPill_Drawings_v4_Drum.stl",
+    "dimensions_mm": [
+      90.0,
+      80.0,
+      35.0
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "Back Door",
+    "path": "/SmartPill Drawings v4/Back Door",
+    "file": "SmartPill_Drawings_v4_Back_Door.stl",
+    "dimensions_mm": [
+      16.0,
+      190.0,
+      165.95
+    ],
+    "valid_brep": true,
+    "category": "original printable candidate"
+  },
+  {
+    "name": "HC-SR04board",
+    "path": "/SmartPill Drawings v4/HC-SR04 /HC-SR04board",
+    "file": "SmartPill_Drawings_v4_HC-SR04_HC-SR04board.stl",
+    "dimensions_mm": [
+      45.5,
+      1.61,
+      20.5
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "solder",
+    "path": "/SmartPill Drawings v4/HC-SR04 /solder",
+    "file": "SmartPill_Drawings_v4_HC-SR04_solder.stl",
+    "dimensions_mm": [
+      1.15,
+      0.65,
+      1.15
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Emitter",
+    "path": "/SmartPill Drawings v4/HC-SR04 /Emitter",
+    "file": "SmartPill_Drawings_v4_HC-SR04_Emitter.stl",
+    "dimensions_mm": [
+      15.9,
+      15.2,
+      15.9
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "CrystalOscillator",
+    "path": "/SmartPill Drawings v4/HC-SR04 /CrystalOscillator",
+    "file": "SmartPill_Drawings_v4_HC-SR04_CrystalOscillator.stl",
+    "dimensions_mm": [
+      13.3,
+      6.4,
+      4.5
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdChip14pin",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdChip14pin",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdChip14pin.stl",
+    "dimensions_mm": [
+      7.3,
+      1.22,
+      8.75
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdChip16pin",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdChip16pin",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdChip16pin.stl",
+    "dimensions_mm": [
+      7.3,
+      1.22,
+      10.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdceramiccapacitor",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdceramiccapacitor",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdceramiccapacitor.stl",
+    "dimensions_mm": [
+      2.5,
+      0.6,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor753",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor753",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor753.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor392",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor392",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor392.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor103",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor103",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor103.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor124",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor124",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor124.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor335",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor335",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor335.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor102",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor102",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor102.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor563",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor563",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor563.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor622",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor622",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor622.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "smdResistor412",
+    "path": "/SmartPill Drawings v4/HC-SR04 /smdResistor412",
+    "file": "SmartPill_Drawings_v4_HC-SR04_smdResistor412.stl",
+    "dimensions_mm": [
+      2.5,
+      0.62,
+      1.3
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "headerMale",
+    "path": "/SmartPill Drawings v4/HC-SR04 /headerMale",
+    "file": "SmartPill_Drawings_v4_HC-SR04_headerMale.stl",
+    "dimensions_mm": [
+      2.54,
+      11.1,
+      2.54
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "M3 x 12 ",
+    "path": "/SmartPill Drawings v4/Hardware /M3 x 12 ",
+    "file": "SmartPill_Drawings_v4_Hardware_M3_x_12.stl",
+    "dimensions_mm": [
+      5.5,
+      5.5,
+      15.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "M3_STEEL HEX NUT",
+    "path": "/SmartPill Drawings v4/Hardware /M3_STEEL HEX NUT",
+    "file": "SmartPill_Drawings_v4_Hardware_M3_STEEL_HEX_NUT.stl",
+    "dimensions_mm": [
+      5.5,
+      2.4,
+      6.35
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "M4 STEEL HEX NUT",
+    "path": "/SmartPill Drawings v4/Hardware /M4 STEEL HEX NUT",
+    "file": "SmartPill_Drawings_v4_Hardware_M4_STEEL_HEX_NUT.stl",
+    "dimensions_mm": [
+      7.05,
+      3.27,
+      8.13
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "M4x25",
+    "path": "/SmartPill Drawings v4/Hardware /M4x25",
+    "file": "SmartPill_Drawings_v4_Hardware_M4x25.stl",
+    "dimensions_mm": [
+      7.06,
+      7.0,
+      26.06
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "M2.6 x 25 ROD",
+    "path": "/SmartPill Drawings v4/Hardware /M2.6 x 25 ROD",
+    "file": "SmartPill_Drawings_v4_Hardware_M2_6_x_25_ROD.stl",
+    "dimensions_mm": [
+      25.0,
+      2.6,
+      2.6
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  },
+  {
+    "name": "Speaker",
+    "path": "/SmartPill Drawings v4/Speakers/Speaker",
+    "file": "SmartPill_Drawings_v4_Speakers_Speaker.stl",
+    "dimensions_mm": [
+      30.0,
+      7.0,
+      20.0
+    ],
+    "valid_brep": true,
+    "category": "purchased hardware reference"
+  }
+]

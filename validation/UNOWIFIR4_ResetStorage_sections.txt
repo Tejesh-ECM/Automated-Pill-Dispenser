@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Codex\2026-10-06\https-www-hackster-io-makersupv-smart\work\budget_build\UNOWIFIR4\ResetStorage.elf  :
+section                    size         addr
+.text                     67668        16384
+.ARM.exidx                    8        84052
+.fsp_dtc_vector_table         0    536870912
+.data                       596    536870912
+.noinit                      28    536871508
+.bss                       8964    536871536
+.heap                      8192    536880504
+.stack_dummy               1024    536902400
+.vector_table               256    536903424
+.data_flash                   0   1074790400
+.id_code                     28     16842776
+.option_setting               0            0
+.option_setting_ns            0            0
+.option_setting_s             0            0
+.ARM.attributes              48            0
+.comment                    199            0
+.debug_info             3154907            0
+.debug_abbrev            122312            0
+.debug_loc               173396            0
+.debug_aranges             8584            0
+.debug_ranges             31272            0
+.debug_macro             187916            0
+.debug_line              355005            0
+.debug_str               619788            0
+.debug_frame              28460            0
+.stab                       180            0
+.stabstr                    387            0
+Total                   4769218
+
+

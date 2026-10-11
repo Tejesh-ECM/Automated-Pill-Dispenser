@@ -1,0 +1,42 @@
+Audit regression run — 9 October 2026
+Actual sketch uses host hardware fakes; no physical hardware validation.
+
+COMMAND: C:\Users\user\Documents\Codex\2026-10-06\https-www-hackster-io-makersupv-smart\work\test_budget_journal.exe
+Journal: interrupted page writes, recovery, rotation, claims, validation and I/O failure passed
+
+
+EXIT: 0
+
+COMMAND: C:\Users\user\Documents\Codex\2026-10-06\https-www-hackster-io-makersupv-smart\work\test_budget_beam.exe
+PASS: short pulse rejection, complete pulse, duplicate edge, micros rollover, event saturation
+
+
+EXIT: 0
+
+COMMAND: C:\Users\user\Documents\Codex\2026-10-06\https-www-hackster-io-makersupv-smart\work\test_budget_firmware.exe
+Refill LED tests: exclusivity, selection, finish, invalid input, cover, disconnect, timeout, cancel and fault passed
+Firmware state tests: offline schedule, no repeat, completion, refill, lid, stop, timeout, excess counts, USB loss and storage failure passed
+
+
+EXIT: 0
+
+COMMAND: C:/Users/user/AppData/Local/Programs/Python/Python314/python.exe -m unittest discover -s outputs/SmartPill_USB_UNO_R4_Budget/tests -v
+
+test_invalid_inputs (test_model.ModelTests.test_invalid_inputs) ... ok
+test_names_and_protocol (test_model.ModelTests.test_names_and_protocol) ... ok
+test_roundtrip (test_model.ModelTests.test_roundtrip) ... ok
+test_boot_reidentifies_firmware (test_ui.UITests.test_boot_reidentifies_firmware) ... ok
+test_config_read_and_roundtrip (test_ui.UITests.test_config_read_and_roundtrip) ... ok
+test_no_automatic_retry (test_ui.UITests.test_no_automatic_retry) ... ok
+test_protocol_rejection (test_ui.UITests.test_protocol_rejection) ... ok
+test_refill_selection_requires_connection (test_ui.UITests.test_refill_selection_requires_connection) ... ok
+test_refill_selection_uses_saved_label_and_waits_for_confirmation (test_ui.UITests.test_refill_selection_uses_saved_label_and_waits_for_confirmation) ... ok
+test_upload_requires_verified_readback (test_ui.UITests.test_upload_requires_verified_readback) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.689s
+
+OK
+
+EXIT: 0
+Document QA: 15 A4 pages rendered through installed Word and inspected as PNGs. Packaged LibreOffice renderer unavailable (soffice.exe missing).
